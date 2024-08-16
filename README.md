@@ -2,7 +2,7 @@
 
 I'm Yanis, a student, software engineer, and degree apprentice from the UK. 
 
-I'm focussed on high level full-stack development, studying for my university course, and I currently work as an apprentice for [@RicohUK](https://www.instagram.com/ricohuk/). 📍 
+I'm focussed on high level full-stack development, studying for my university course, and I currently work as an apprentice for [@RicohUK](https://www.instagram.com/ricohuk/).📍 
 
 Outside of work, I'm also training as a hybrid athlete, and I'm into FPV and Cinematic Drones which you can see the journey here [@Yanis_FPV](https://www.instagram.com/yanis_fpv/).
 
