@@ -1,4 +1,4 @@
-<h3>Hi there! 👋</h3>
+<h3>Hi there! 👾</h3>
 
 I'm Yanis, a student, software engineer, and degree apprentice from the UK. 
 
