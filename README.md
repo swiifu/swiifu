@@ -4,8 +4,6 @@ I'm Yanis, a student, software engineer, and degree apprentice from the UK.
 
 I'm focussed on full-stack development, studying for my university course, and I currently work as an apprentice for [@RicohUK](https://www.instagram.com/ricohuk/).📍 
 
-Outside of work, I'm also training as a hybrid athlete, and I'm into FPV and Cinematic Drones - you can see the journey here [@Yanis_FPV](https://www.instagram.com/yanis_fpv/).
-
 **Connect with me!** 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yanisbalan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanisbalan) 
