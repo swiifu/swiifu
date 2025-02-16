@@ -2,7 +2,9 @@
 
 I'm Yanis, a student, software engineer, and degree apprentice from the UK. 
 
-I'm focused on full-stack development, studying for my university course, and I currently work as an apprentice for [@RicohUK](https://www.instagram.com/ricohuk/).📍 
+Full-Stack development 
+Studying BSc in Digital & Tech Solutions
+Full-time apprentice for [@RicohUK](https://www.instagram.com/ricohuk/).📍 
 
 **Connect with me!** 
 
