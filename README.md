@@ -10,7 +10,7 @@ I'm fascinated by large-scale, high-impact products and have worked on industry-
 
 
 
-Outside of work, I'm interested in following the developments of tech, and I help coaches make more revenue through online sales (Cash Collected > $250,000k and counting).
+Outside of work, I'm interested in following the developments of tech, and I help coaches make more revenue through online sales (cash collected $250k+ and counting).
 
 **Connect with me!** 
 
