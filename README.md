@@ -4,7 +4,13 @@ I'm **[Yanis](https://yanisbalan.com/)**, a student, software engineer, and degr
 
 - Full-Stack development 
 - Studying BSc in Digital & Tech Solutions
-- Full-time apprentice for **[@RicohUK](https://www.instagram.com/ricohuk/)**.📍 
+- Degree apprentice for **[@RicohUK](https://www.instagram.com/ricohuk/)**.📍
+
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as internal apps that save our teams time and energy. I have contributed to major features and automating systems in internal-facing applications.
+
+
+
+Outside of work, I'm interested in following the developments of tech, and I help coaches make more revenue through online sales (Cash Collected > $250,000k and counting).
 
 **Connect with me!** 
 
