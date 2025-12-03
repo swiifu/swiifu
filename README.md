@@ -1,6 +1,6 @@
 <h3>Hi there! 👾</h3>
 
-I'm Yanis, a student, software engineer, and degree apprentice from the UK. 
+I'm **[Yanis](https://yanisbalan.com/)**, a student, software engineer, and degree apprentice from the UK. 
 
 - Full-Stack development 
 - Studying BSc in Digital & Tech Solutions
