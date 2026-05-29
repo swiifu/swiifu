@@ -1,16 +1,14 @@
 <h3>Hi there! 👾</h3>
 
-I'm **[Yanis](https://yanisbalan.com/)**, a student, software engineer, and degree apprentice from the UK. 
+I'm **[Yanis](https://yanisbalan.com/)**, software engineer, and degree apprentice from the UK. 
 
 - Full-Stack development 
 - Studying BSc in Digital & Tech Solutions
 - Degree apprentice for **[@RicohUK](https://www.instagram.com/ricohuk/)**.📍
 
-I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as internal apps that save our teams time and energy. I have contributed to major features and automating systems in internal-facing applications.
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as internal apps that save our teams' costs, time and energy. I have contributed to major features and automating systems in internal-facing applications.
 
-
-
-Outside of work, I'm interested in following the developments of tech, and I help online social-media-based coaches make more revenue through online sales (cash collected $800k+ and counting).
+Outside of work, I'm interested in following the developments of tech, and I help online social-media-based coaches make more revenue through online ticket sales.
 
 **Connect with me!** 
 
