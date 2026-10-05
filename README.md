@@ -2,7 +2,6 @@
 
 I'm **[Yanis](https://yanisbalan.com/)**, software engineer, and degree apprentice from the UK. 
 
-- Full-Stack development 
 - Studying BSc in Digital & Tech Solutions
 - Degree apprentice for **[@RicohUK](https://www.instagram.com/ricohuk/)**.📍
 
